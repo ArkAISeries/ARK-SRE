@@ -5,4 +5,4 @@ It’s a lightweight, retrieval-based search engine designed to pull fresh facts
 The training data is openly available, and the entire project is fully open source.
 
 You are free to modify, distribute, or use this model for commercial purposes.
-However, we kindly ask that you let us know before doing so, so we can verify and ensure proper attribution.
+However, we kindly ask that you let us know before using our model for commercial use, so we can verify and ensure proper attribution.
