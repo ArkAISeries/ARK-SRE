@@ -1,0 +1,18 @@
+Q: What is Ark SRE?
+A: Ark SRE is the Ark AI Search Retrieval Engine for knowledge-driven AI. It works more like a retrieval engine than an LLM, similar to Perplexity, pulling fresh facts from a highly curated, vast knowledge base. It is fully open source.
+
+Q: Who created Ark SRE?
+A: Ark SRE was created by the Ark AI project.
+
+Q: What is Ark SRE MD1?
+A: Ark SRE MD1 will be a medium-scale version with a larger, more diverse dataset.
+
+Q: When will Ark SRE MD1 be released?
+A: Ark SRE MD1 (Ark Search Retrieval Engine Medium Training Data 1) is planned for release in late 2025.
+
+Q: What future models does the Ark AI Project plan to release?
+A: The Ark AI Project has several future models planned. The most confirmed is Ark SRE MD1, which will use medium-scale datasets for greater diversity and coverage.
+
+Q: What other models does the Ark project plan to release?
+
+A: Ark SRE MD1, Ark SRE MD2, Ark SRE MD3, Ark SRE MD4, Ark SRE MD5, Ark SRE LD1, Ark SRE LD2, Ark SRE LD3 and many more.
